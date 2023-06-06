@@ -9,7 +9,7 @@ https://github.com/su-Kaizen/K-GSPOOFER/assets/130379639/2251d43b-b689-4aef-9ed9
 
 ## 💻Intructions for the executable version [EZ method]💻
 
-1. Download this repository*
+1. Download the Executable Version in [Release](https://github.com/su-Kaizen/K-GSPOOFER/releases/download/v1.exe/K-GSPOOFER.zip)
 2. Unzip the downloaded file and run as admin ___K-GSPOOFER.exe___
 3. And there you go!
 
@@ -19,7 +19,7 @@ https://github.com/su-Kaizen/K-GSPOOFER/assets/130379639/2251d43b-b689-4aef-9ed9
   - Add Python to PATH environment variable. If you type `python` in cmd and it runs python, you don't have to do this step. If not, [How to add Python to PATH.](https://www.machinelearningplus.com/python/add-python-to-path-how-to-add-python-to-the-path-environment-variable-in-windows/)
   - colorama library intalled. Yo can install it by typing `pip install colorama` in cmd.
 
-1. Download this repository.*
+1. Download the Python version in [Release](https://github.com/su-Kaizen/K-GSPOOFER/releases/download/v1.py/K-GSPOOFER-v1.py)
 2. Open cmd as administrator.
 3. Go to the .py directory with `cd C:\YOUR.PY-DIRECTORY`.
 4. Run the script with `python K-GSPOOFER.py`.
