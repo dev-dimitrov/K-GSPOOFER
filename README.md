@@ -1,5 +1,8 @@
 # 🌌K-GSPOOFER🌌
-![KGS](https://github.com/su-Kaizen/K-GSPOOFER/assets/130379639/212077ba-11ca-4f30-ae82-c0763533ca2b)
+
+![KGS](https://github.com/su-Kaizen/K-GSPOOFER/assets/130379639/5f58bbd4-21c3-4981-b505-8f778c31d52e)
+
+
 The K-GSPOOFER is a program that changes the MachineGuid and HwidProfileGuid values in the Windows registry. 
 The HwidProfile is an identifier given by Windows to the computer hardware and the MachineGuid is another Windows identifier that is assigned to each computer.
 
@@ -7,12 +10,7 @@ By changing these values, **you will get back the free trials** in most of the s
 
 ## 🎥Video-Demostration🎥
 
-
-
-https://github.com/su-Kaizen/K-GSPOOFER/assets/130379639/909fb6bb-1446-454d-bad3-40c41908ce41
-
-
-
+https://github.com/su-Kaizen/K-GSPOOFER/assets/130379639/48d4bef0-4852-4c0e-a56c-d4cfb3478a4d
 
 ## 💻Intructions for the executable version [EZ method]💻
 
