@@ -31,7 +31,7 @@ https://github.com/su-Kaizen/K-GSPOOFER/assets/130379639/909fb6bb-1446-454d-bad3
 3. Go to the .py directory with `cd C:\YOUR.PY-DIRECTORY`.
 4. Run the script with `python K-GSPOOFER-v1.py`.
 
-## License
+## 📜License📜
 You can modify, distribute and use it for commercial purposes. Obviously, I am NOT responsible for anything you do with the script. For more info read [LICENSE](https://github.com/su-Kaizen/K-GSPOOFER/blob/main/LICENSE)
 ## 👥Help👥
 Ask me if you have any problem/question! :)
