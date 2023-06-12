@@ -22,7 +22,7 @@ https://github.com/su-Kaizen/K-GSPOOFER/assets/130379639/48d4bef0-4852-4c0e-a56c
 - Pre-requirements
   - Python 3.1 or above. 
   - Add Python to PATH environment variable. If you type `python` in cmd and it runs python, you don't have to do this step. If not, [How to add Python to PATH.](https://www.machinelearningplus.com/python/add-python-to-path-how-to-add-python-to-the-path-environment-variable-in-windows/)
-  - colorama library intalled. Yo can install it by typing `pip install colorama` in cmd.
+  - colorama library intalled. You can install it by typing `pip install colorama` in cmd.
 
 1. Download the Python version in [Release](https://github.com/su-Kaizen/K-GSPOOFER/releases)
 2. Open cmd as administrator.
