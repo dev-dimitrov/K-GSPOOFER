@@ -2,7 +2,7 @@
 # Do NOT sell this >:(
 # Feel free to modify the code as u want
 # I am a newbie in python so the code is not entirely "opmitized". It works and that's enough xD
-
+# SPECIAL THANKS TO: N0rmie and M <3
 
 import secrets
 import os
