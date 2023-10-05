@@ -12,13 +12,13 @@ By changing these values, **you will get back the free trials** in most of the s
 
 https://github.com/su-Kaizen/K-GSPOOFER/assets/130379639/48d4bef0-4852-4c0e-a56c-d4cfb3478a4d
 
-## 💻Intructions for the executable version [EZ method]💻
+## 💻Instructions for the executable version [EZ method]💻
 
 1. Download the Executable Version in [Release](https://github.com/su-Kaizen/K-GSPOOFER/releases)
 2. Unzip the downloaded file and run as admin *K-GSPOOFER.exe*
 3. And there you go!
 
-## 🐍Intructions for the .py version🐍
+## 🐍Instructions for the .py version🐍
 - Pre-requirements
   - Python 3.1 or above. 
   - Add Python to PATH environment variable. If you type `python` in cmd and it runs python, you don't have to do this step. If not, [How to add Python to PATH.](https://www.machinelearningplus.com/python/add-python-to-path-how-to-add-python-to-the-path-environment-variable-in-windows/)
